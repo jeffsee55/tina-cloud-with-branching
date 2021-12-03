@@ -1,6 +1,6 @@
 ---
 blocks:
-  - body: This is a branching test
+  - body: hello world
     color: primary
     _template: content
   - tagline: ''
